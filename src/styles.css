@@ -1,0 +1,6 @@
+/* You can add global styles to this file, and also import other style files */
+element {
+  --main-button-color: "#3700B3";
+  --primary-color: "#6200EE";
+  --secondary-color: "#BB86FC";
+}
